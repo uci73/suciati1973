@@ -173,15 +173,10 @@ https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/
 https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.ibb.co.com/f8dPpT1/CINEBOX.jpg",Cinebox
 http://66.160.192.241/cineboxcinehd/index.m3u8
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="ASIA",HBO Sig ðŸ‡§ðŸ‡·
+http://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/262.ts
+#EXTINF:-1 group-title="ASIA",HBO Xtreme ðŸ‡§ðŸ‡·
+http://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/267.ts
 
 
 #EXTINF:-1 group-title="ASIA",FW Movie
