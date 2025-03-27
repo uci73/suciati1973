@@ -251,3 +251,21 @@ http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
 http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
 #EXTINF:-1 group-title="DEWASA",AMAZING TV
 http://125.227.210.55:8156/VideoInput/play.ts
+#EXTINF:-1 group-title="ASIA", MOVIES MIX 2 (C)
+http://epg.112114.xyz/douyu/122402
+#EXTINF:-1 group-title="ASIA", MOVIES MIX 7 (P)
+http://epg.112114.xyz/douyu/747764
+#EXTINF:-1 group-title="ASIA", MOVIES MIX 15 (C)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=3637778
+#EXTINF:-1 group-title="ASIA", MOVIES MIX 18 (C.S)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
+#EXTINF:-1 group-title="ASIA", MOVIES MIX 19 (C)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=85894
+#EXTINF:-1 group-title="ASIA", MOVIES MIX 28 (C.)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7253343
+#EXTINF:-1 group-title="ASIA", MOVIES MIX 30 (C.H)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7356023
+#EXTINF:-1 group-title="ASIA", MOVIES MIX 35 (P)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=20415
+#EXTINF:-1 group-title="ASIA", MOVIES MIX 38 (P)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7882691
