@@ -232,3 +232,15 @@ https://newidco-newkid-1-br.lg.wurl.tv/3000.m3u8
 https://newidco-newkid-1-mx.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC",New Kpop 3
 https://newidco-newkid-1-ca.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="DEWASA",PANDORA
+http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
+#EXTINF:-1 group-title="DEWASA",BANANA
+http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
+#EXTINF:-1 group-title="DEWASA",1 CHANNEL
+http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
+#EXTINF:-1 group-title="DEWASA",2 CHANNEL
+http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
+#EXTINF:-1 group-title="DEWASA",3 CHANNEL
+http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
+#EXTINF:-1 group-title="DEWASA",AMAZING TV
+http://125.227.210.55:8156/VideoInput/play.ts
