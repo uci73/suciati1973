@@ -1,14 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/zbMmLpD/Picsart-23-06-12-22-58-28-401.jpg",ASTRO BOO
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37457.ts
+
 #EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/7tM9JHK/HBO-FAMILY-US.jpg",HBO FAMILY HD
 http://212.102.60.231/HBO_FAMILY/index.m3u8
 #EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/yXP0nPn/CINEMAX-US.jpg",CINEMAX HD
 http://212.102.60.231/CINEMAX/index.m3u8
-#EXTINF:-1 group-title="ASIA", HBO HD
-http://fl2.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1 group-title="ASIA", HBO HD
-http://212.102.60.231/HBO/index.m3u8
 #EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/0Xhtnk1/sony-pic-logo-tv.jpg",SONY PIX
 http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=5410&deviceMac=00:1A:79:17:BF:CE
 #EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/zh7bccs/Star-Movies.jpg",STAR MOVIES
@@ -61,8 +56,6 @@ https://bad6f547d5364da0b2fe3080c5a48068.mediatailor.us-east-1.amazonaws.com/v1/
 https://bit.ly/3DVMI2j
 #EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/BnWGR62/LOTUS-MACAU.jpg",LOTUS MACAU
 https://cdn2.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
-#EXTINF:-1 group-title="ASIA",AMC
-https://bit.ly/3SRLf1h
 #EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/BnWGR62/LOTUS-MACAU.jpg",STAR TV
 https://cdn2.skygo.mn/live/disk1/Star/HLS-FTA/Star.m3u8
 #EXTINF:-1 group-title="MOVIES SERIES" tvg-logo="https://i.ibb.co.com/ftWscw4/Paramount.jpg",PARAMOUNT NETWORK
@@ -117,6 +110,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
 
+
+
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.ibb.co.com/8mgc3qG/hbohits.png",ASTRO BOO
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37457.ts
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.ibb.co.com/L9rY2tN/hbo.png",HBO
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197972
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.ibb.co.com/0GWjcWV/hbofamily.png",HBO FAMILY
@@ -162,6 +160,10 @@ http://201.219.223.101:46000/play/a03s
 #EXTINF:-1 group-title="SPORT",Fox Sports 3 ðŸ‡¦ðŸ‡·
 http://201.219.223.101:46000/play/a03t
 
+
+
+
+
 #EXTINF:-1 group-title="ASIA",Dorama
 http://95.67.12.82:9046
 #EXTINF:-1 group-title="ASIA",THRILL
@@ -196,7 +198,6 @@ http://rr3.dens.tv/h/h191/index.m3u8
 http://rr3.dens.tv/s/s29/index.m3u8
 #EXTINF:-1 group-title="ASIA",Thrill
 http://rr3.dens.tv/s/s34/index.m3u8
-
 #EXTINF:-1 group-title="ASIA",FW Movie
 https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA",FWsov Movie
@@ -213,6 +214,21 @@ https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/
 https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 group-title="ASIA",New Kpop
 https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8?ads.wurl_channel=617&ads.wurl_name=NewKID&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 group-title="ASIA", HBO HD
+http://fl2.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 group-title="ASIA", HBO HD
+http://212.102.60.231/HBO/index.m3u8
+#EXTINF:-1 group-title="ASIA",AMC
+https://bit.ly/3SRLf1h
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="DEWASA", AMAZING TV
 http://125.227.210.55:8156/VideoInput/play.ts
@@ -220,17 +236,8 @@ http://125.227.210.55:8156/VideoInput/play.ts
 http://ott.server-iptv.live/1660/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 group-title="DEWASA",Pink Movies
 http://109.206.96.129:1935/live/pinkmovies.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="DEWASA",JAPAN HD
 http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/6225/index.m3u8
-#EXTINF:-1 group-title="MUSIC",Play TV
-https://isaocorp.cloudecast.com/playtv/index.m3u8
-#EXTINF:-1 group-title="MUSIC",New Kpop 1
-https://newidco-newkid-1-br.lg.wurl.tv/3000.m3u8
-#EXTINF:-1 group-title="MUSIC",New Kpop 2
-https://newidco-newkid-1-mx.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",New Kpop 3
-https://newidco-newkid-1-ca.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="DEWASA",PANDORA
 http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
 #EXTINF:-1 group-title="DEWASA",BANANA
@@ -243,6 +250,26 @@ http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
 http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
 #EXTINF:-1 group-title="DEWASA",AMAZING TV
 http://125.227.210.55:8156/VideoInput/play.ts
+
+
+
+
+
+#EXTINF:-1 group-title="MUSIC",Play TV
+https://isaocorp.cloudecast.com/playtv/index.m3u8
+#EXTINF:-1 group-title="MUSIC",New Kpop 1
+https://newidco-newkid-1-br.lg.wurl.tv/3000.m3u8
+#EXTINF:-1 group-title="MUSIC",New Kpop 2
+https://newidco-newkid-1-mx.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",New Kpop 3
+https://newidco-newkid-1-ca.lg.wurl.tv/playlist.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="ASIA", MOVIES MIX 2 (C)
 http://epg.112114.xyz/douyu/122402
 #EXTINF:-1 group-title="ASIA", MOVIES MIX 7 (P)
