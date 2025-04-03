@@ -59,8 +59,6 @@ https://cdn2.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 https://cdn2.skygo.mn/live/disk1/Star/HLS-FTA/Star.m3u8
 #EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/pwRGF4S/Showtime.jpg",MOVIES_DOUYU_03
 http://huanqiuzhibo.cn/manifest/douyu.php?id=3637778
-#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/pwRGF4S/Showtime.jpg",MOVIES_DOUYU_03
-http://huanqiuzhibo.cn/manifest/douyu.php?id=3637778
 #EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/pwRGF4S/Showtime.jpg",MOVIES_DOUYU_16
 http://huanqiuzhibo.cn/manifest/douyu.php?id=7253343
 #EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/pwRGF4S/Showtime.jpg",MOVIES_DOUYU_18
@@ -90,6 +88,12 @@ http://fl2.moveonjoy.com/TNT/index.m3u8
 
 
 
+
+
+
+
+#EXTINF:-1 group-title="NASIONAL",RCTI
+https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.indihometv.com/assets/images/channel/logo_transtv_small1.png",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.indihometv.com/assets/images/channel/logo_transtv_small1.png",TRANS TV
@@ -132,18 +136,26 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.ibb.co.com/hsPmSbf/BIOSKOP-INDO.jpg",BIOSKOP INDONESIA
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264801
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.ibb.co.com/hsPmSbf/BIOSKOP-INDO.jpg",TRANSTV
+#EXTINF:-1 group-title="NASIONAL",TRANSTV
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.ibb.co.com/hsPmSbf/BIOSKOP-INDO.jpg",TRANS7
+#EXTINF:-1 group-title="NASIONAL",TRANS7
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.ibb.co.com/hsPmSbf/BIOSKOP-INDO.jpg",GTV
+#EXTINF:-1 group-title="NASIONAL",GTV
 https://allcutv.rctiplus.id/gtv2023.m3u8
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.ibb.co.com/hsPmSbf/BIOSKOP-INDO.jpg",MNCTV
+#EXTINF:-1 group-title="NASIONAL",MNCTV
 https://allcutv.rctiplus.id/mnctv2023.m3u8
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.ibb.co.com/hsPmSbf/BIOSKOP-INDO.jpg",RCTI
+#EXTINF:-1 group-title="NASIONAL",RCTI
 https://allcutv.rctiplus.id/rcti2023.m3u8
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.ibb.co.com/hsPmSbf/BIOSKOP-INDO.jpg",INEWS
+#EXTINF:-1 group-title="NASIONAL",INEWS
 https://allcutv.rctiplus.id/inews2023.m3u8
+#EXTINF:-1 group-title="NASIONAL",ANTV_HD
+https://raw.githubusercontent.com/warningfm/streams/master/live/m3u8/id/b630a001384603f.m3u8
+#EXTINF:-1 group-title="NASIONAL",NET
+http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
+
+
+
+
 
 
 
@@ -183,8 +195,10 @@ https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.ibb.co.com/f8dPpT1/My-Cinema-Asia.jpg",Mediacorp Entertainment Tamil
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
-
-
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.ibb.co.com/f8dPpT1/My-Cinema-Asia.jpg",RTB ANEKA
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.ibb.co.com/f8dPpT1/My-Cinema-Asia.jpg",tvN
+https://d2mecmy93314jg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ysoihaaolxdeo-ssai-prd/8774f2b9_200a_41a9_b741_0882edc4765b/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200016H1
 
 
 
@@ -338,5 +352,20 @@ https://newidco-newkid-1-ca.lg.wurl.tv/playlist.m3u8
 
 
 
+
+
+
+
+
+#EXTINF:-1 group-title="TSN SPORT",TSN 1
+http://212.102.60.231/TSN_1/index.m3u8
+#EXTINF:-1 group-title="TSN SPORT",TSN 2
+http://212.102.60.231/TSN_2/index.m3u8
+#EXTINF:-1 group-title="TSN SPORT",TSN 3
+http://212.102.60.231/TSN_3/index.m3u8
+#EXTINF:-1 group-title="TSN SPORT",TSN 4
+http://212.102.60.231/TSN_4/index.m3u8
+#EXTINF:-1 group-title="TSN SPORT",TSN 5
+http://212.102.60.231/TSN_5/index.m3u8
 
 
