@@ -152,7 +152,8 @@ https://allcutv.rctiplus.id/inews2023.m3u8
 https://raw.githubusercontent.com/warningfm/streams/master/live/m3u8/id/b630a001384603f.m3u8
 #EXTINF:-1 group-title="NASIONAL",NET
 http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
-
+#EXTINF:-1 group-title="NASIONAL",Dunia Sinema
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 
 
@@ -334,6 +335,15 @@ http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
 http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
 #EXTINF:-1 group-title="DEWASA",AMAZING TV
 http://125.227.210.55:8156/VideoInput/play.ts
+#EXTINF:-1 group-title="DEWASA",Dream Room
+http://cord-cutter.net:8080/j3McKd/673709/159976
+#EXTINF:-1 group-title="DEWASA",Model Media
+http://cord-cutter.net:8080/j3McKd/673709/160011
+
+
+
+
+
 
 
 
@@ -369,3 +379,26 @@ http://212.102.60.231/TSN_4/index.m3u8
 http://212.102.60.231/TSN_5/index.m3u8
 
 
+
+
+
+
+
+#EXTINF:-1 group-title="COSMOTE SPORT",COSMOTE SPORT 1 (MATCH TIME)
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/121948
+#EXTINF:-1 group-title="COSMOTE SPORT",COSMOTE SPORT 2
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/121949
+#EXTINF:-1 group-title="COSMOTE SPORT",COSMOTE SPORT 3
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/121950
+#EXTINF:-1 group-title="COSMOTE SPORT",COSMOTE SPORT 4
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/121951
+#EXTINF:-1 group-title="COSMOTE SPORT",COSMOTE SPORT 5
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/121952
+#EXTINF:-1 group-title="COSMOTE SPORT",COSMOTE SPORT 6 (MATCH TIME)
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/121953
+#EXTINF:-1 group-title="COSMOTE SPORT",COSMOTE SPORT 7 [Live During Events Only]
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/121954
+#EXTINF:-1 group-title="COSMOTE SPORT",COSMOTE SPORT 8 [Live During Events Only]
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/121955
+#EXTINF:-1 group-title="COSMOTE SPORT",COSMOTE SPORT 9 [Live During Events Only]
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/121956
