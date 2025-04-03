@@ -57,6 +57,11 @@ https://bit.ly/3DVMI2j
 https://cdn2.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 #EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/BnWGR62/LOTUS-MACAU.jpg",STAR TV
 https://cdn2.skygo.mn/live/disk1/Star/HLS-FTA/Star.m3u8
+
+
+
+
+
 #EXTINF:-1 group-title="MOVIES SERIES" tvg-logo="https://i.ibb.co.com/ftWscw4/Paramount.jpg",PARAMOUNT NETWORK
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 group-title="MOVIES SERIES" tvg-logo="https://i.ibb.co.com/ftWscw4/Paramount.jpg",PARAMOUNT NETWORK
@@ -65,8 +70,10 @@ http://117tv.icu:8080/live/X5xRz0/944877/46694.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 #EXTINF:-1 group-title="MOVIES SERIES" tvg-logo="https://i.ibb.co.com/zsPFQLX/TNT-SERIES-BOI.jpg",TNT
 http://fl2.moveonjoy.com/TNT/index.m3u8
-#EXTINF:-1 group-title="ASIA", NEW KMOVIES
-https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+
+
+
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.indihometv.com/assets/images/channel/logo_transtv_small1.png",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.indihometv.com/assets/images/channel/logo_transtv_small1.png",TRANS TV
@@ -107,6 +114,10 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.ibb.co.com/zFzJ0qX/TVONE.jpg",ANTV
 https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.ibb.co.com/hsPmSbf/BIOSKOP-INDO.jpg",BIOSKOP INDONESIA
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264801
+
+
 
 
 
@@ -138,16 +149,32 @@ http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;useri
 http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.ibb.co.com/f8dPpT1/My-Cinema-Asia.jpg",MY CINEMA ASIA
 http://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.ibb.co.com/hsPmSbf/BIOSKOP-INDO.jpg",BIOSKOP INDONESIA
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264801
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.ibb.co.com/f8dPpT1/My-Cinema-Asia.jpg",NEW KMOVIES
+https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.ibb.co.com/f8dPpT1/My-Cinema-Asia.jpg",Mediacorp Entertainment English
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.ibb.co.com/f8dPpT1/My-Cinema-Asia.jpg",Mediacorp Entertainment Tamil
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co.com/XCWWdPR/Dreamworks.jpg",DREAMWORKS
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157610
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co.com/1025wXB/CNetwork.jpg",CARTOON NETWORK
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157593
-#EXTINF:-1 group-title="ASIA", Mediacorp Entertainment English
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
-#EXTINF:-1 group-title="ASIA", Mediacorp Entertainment Tamil
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co.com/XCWWdPR/Dreamworks.jpg",My Kidz
+http://rr3.dens.tv/h/h191/index.m3u8
+
+
+
+
 #EXTINF:-1 group-title="SPORT",ESPN ðŸ‡¨ðŸ‡´
 http://201.219.223.101:46000/play/a03f
 #EXTINF:-1 group-title="SPORT",ESPN 2 ðŸ‡¨ðŸ‡±
@@ -191,8 +218,6 @@ http://rr3.dens.tv/s/s31/index.m3u8
 http://rr3.dens.tv/h/h193/index.m3u8
 #EXTINF:-1 group-title="ASIA",My Family Channel
 http://rr3.dens.tv/h/h194/index.m3u8
-#EXTINF:-1 group-title="KIDS",My Kidz
-http://rr3.dens.tv/h/h191/index.m3u8
 #EXTINF:-1 group-title="ASIA",Shanghai Dragon
 http://rr3.dens.tv/s/s29/index.m3u8
 #EXTINF:-1 group-title="ASIA",Thrill
@@ -213,12 +238,30 @@ https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/
 https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 group-title="ASIA",New Kpop
 https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8?ads.wurl_channel=617&ads.wurl_name=NewKID&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 group-title="ASIA", HBO HD
+#EXTINF:-1 group-title="ASIA",HBO HD
 http://fl2.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1 group-title="ASIA", HBO HD
+#EXTINF:-1 group-title="ASIA",HBO HD
 http://212.102.60.231/HBO/index.m3u8
 #EXTINF:-1 group-title="ASIA",AMC
 https://bit.ly/3SRLf1h
+#EXTINF:-1 group-title="ASIA", MOVIES MIX 2 (C)
+http://epg.112114.xyz/douyu/122402
+#EXTINF:-1 group-title="ASIA", MOVIES MIX 7 (P)
+http://epg.112114.xyz/douyu/747764
+#EXTINF:-1 group-title="ASIA", MOVIES MIX 15 (C)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=3637778
+#EXTINF:-1 group-title="ASIA", MOVIES MIX 18 (C.S)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
+#EXTINF:-1 group-title="ASIA", MOVIES MIX 19 (C)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=85894
+#EXTINF:-1 group-title="ASIA", MOVIES MIX 28 (C.)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7253343
+#EXTINF:-1 group-title="ASIA", MOVIES MIX 30 (C.H)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7356023
+#EXTINF:-1 group-title="ASIA", MOVIES MIX 35 (P)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=20415
+#EXTINF:-1 group-title="ASIA", MOVIES MIX 38 (P)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7882691
 
 
 
@@ -269,21 +312,3 @@ https://newidco-newkid-1-ca.lg.wurl.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="ASIA", MOVIES MIX 2 (C)
-http://epg.112114.xyz/douyu/122402
-#EXTINF:-1 group-title="ASIA", MOVIES MIX 7 (P)
-http://epg.112114.xyz/douyu/747764
-#EXTINF:-1 group-title="ASIA", MOVIES MIX 15 (C)
-http://huanqiuzhibo.cn/manifest/douyu.php?id=3637778
-#EXTINF:-1 group-title="ASIA", MOVIES MIX 18 (C.S)
-http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
-#EXTINF:-1 group-title="ASIA", MOVIES MIX 19 (C)
-http://huanqiuzhibo.cn/manifest/douyu.php?id=85894
-#EXTINF:-1 group-title="ASIA", MOVIES MIX 28 (C.)
-http://huanqiuzhibo.cn/manifest/douyu.php?id=7253343
-#EXTINF:-1 group-title="ASIA", MOVIES MIX 30 (C.H)
-http://huanqiuzhibo.cn/manifest/douyu.php?id=7356023
-#EXTINF:-1 group-title="ASIA", MOVIES MIX 35 (P)
-http://huanqiuzhibo.cn/manifest/douyu.php?id=20415
-#EXTINF:-1 group-title="ASIA", MOVIES MIX 38 (P)
-http://huanqiuzhibo.cn/manifest/douyu.php?id=7882691
