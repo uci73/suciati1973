@@ -107,6 +107,16 @@ http://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.indihometv.com/assets/images/channel/logo_kompastv_small1.png",KOMPAS TV
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.ibb.co.com/zFzJ0qX/TVONE.jpg",Jawa Pos TV
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.ibb.co.com/zFzJ0qX/TVONE.jpg",MAGNA Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.ibb.co.com/zFzJ0qX/TVONE.jpg",INDOSIAR
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.ibb.co.com/zFzJ0qX/TVONE.jpg",ANTV
+https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
+
+
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.ibb.co.com/L9rY2tN/hbo.png",HBO
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197972
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.ibb.co.com/0GWjcWV/hbofamily.png",HBO FAMILY
@@ -151,10 +161,7 @@ http://201.219.223.101:46000/play/a02a
 http://201.219.223.101:46000/play/a03s
 #EXTINF:-1 group-title="SPORT",Fox Sports 3 ðŸ‡¦ðŸ‡·
 http://201.219.223.101:46000/play/a03t
-#EXTINF:-1 group-title="NASIONAL",INDOSIAR
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-#EXTINF:-1 group-title="NASIONAL",ANTV
-https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
+
 #EXTINF:-1 group-title="ASIA",Dorama
 http://95.67.12.82:9046
 #EXTINF:-1 group-title="ASIA",THRILL
@@ -173,9 +180,9 @@ https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/
 https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.ibb.co.com/f8dPpT1/CINEBOX.jpg",Cinebox
 http://66.160.192.241/cineboxcinehd/index.m3u8
-#EXTINF:-1 group-title="ASIA",HBO Sig ðŸ‡§ðŸ‡·
+#EXTINF:-1 group-title="ASIA",HBO Sig
 http://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/262.ts
-#EXTINF:-1 group-title="ASIA",HBO Xtreme ðŸ‡§ðŸ‡·
+#EXTINF:-1 group-title="ASIA",HBO Xtreme
 http://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/267.ts
 #EXTINF:-1 group-title="ASIA",CelestialClassicMovies
 http://rr3.dens.tv/s/s31/index.m3u8
@@ -190,45 +197,30 @@ http://rr3.dens.tv/s/s29/index.m3u8
 #EXTINF:-1 group-title="ASIA",Thrill
 http://rr3.dens.tv/s/s34/index.m3u8
 
-
-#EXTINF:-1 group-title="ASIA", FW Movie
+#EXTINF:-1 group-title="ASIA",FW Movie
 https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8
-#EXTINF:-1 group-title="ASIA", FWsov Movie
+#EXTINF:-1 group-title="ASIA",FWsov Movie
 https://freelive.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/chunks.m3u8
-#EXTINF:-1 group-title="ASIA", Douyu TV MOVIES
+#EXTINF:-1 group-title="ASIA",Douyu TV MOVIES
 https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
-#EXTINF:-1 group-title="ASIA", Pixl TV Movie Channel
+#EXTINF:-1 group-title="ASIA",Pixl TV Movie Channel
 https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
-#EXTINF:-1 group-title="ASIA", Rakuten Viki PLEX
+#EXTINF:-1 group-title="ASIA",Rakuten Viki PLEX
 https://dce1408e0efa4bc4b6ca1366c56911fb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_RakutenViki/playlist.m3u8?ads.wurl_channel=843&ads.wurl_name=RakutenViki&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=p6Ph7ybs-ExykQE-Zz78&ads.plex_id=60d4edd8b2fdec002c14112f&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-#EXTINF:-1 group-title="ASIA", New K Movies
+#EXTINF:-1 group-title="ASIA",New K Movies
 https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=p6Ph7ybs-ExykQE-Zz78&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-#EXTINF:-1 group-title="ASIA", New K movies
+#EXTINF:-1 group-title="ASIA",New K movies
 https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 group-title="ASIA", New Kpop
+#EXTINF:-1 group-title="ASIA",New Kpop
 https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8?ads.wurl_channel=617&ads.wurl_name=NewKID&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 group-title="ASIA", Yg tv Plex
-https://4e7d4e92cd344185b927ab5c730550dd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_YGTV/playlist.m3u8?ads.wurl_channel=900&ads.wurl_name=YGTV&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Rs19sdFRTfJdn9Wyxa4f&ads.plex_id=60d4ede2b2fdec002c14113b&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-#EXTINF:-1 group-title="ASIA", FW Movie
-https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8
-#EXTINF:-1 group-title="ASIA", FWsov Movie
-https://freelive.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/chunks.m3u8
-#EXTINF:-1 group-title="ASIA", Douyu TV MOVIES
-https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
-#EXTINF:-1 group-title="ASIA", Pixl TV Movie Channel
-https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
+
 #EXTINF:-1 group-title="DEWASA", AMAZING TV
 http://125.227.210.55:8156/VideoInput/play.ts
 #EXTINF:-1 group-title="DEWASA",ROMANCE
 http://ott.server-iptv.live/1660/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 group-title="DEWASA",Pink Movies
 http://109.206.96.129:1935/live/pinkmovies.stream/playlist.m3u8
-#EXTINF:-1 group-title="DEWASA",EROX
-http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/54982
-#EXTINF:-1 group-title="DEWASA",PENTHOUSE
-http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
-#EXTINF:-1 group-title="DEWASA",XXL
-http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/26472
+
 #EXTINF:-1 group-title="DEWASA",JAPAN HD
 http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/6225/index.m3u8
 #EXTINF:-1 group-title="MUSIC",Play TV
