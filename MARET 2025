@@ -69,6 +69,11 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=7356023
 http://huanqiuzhibo.cn/manifest/douyu.php?id=7882691
 #EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/pwRGF4S/Showtime.jpg",MOVIES_DOUYU_33
 http://epg.112114.xyz/douyu/434971
+#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/pwRGF4S/Showtime.jpg",Hi-YAH!
+https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
+
+
+
 
 
 
