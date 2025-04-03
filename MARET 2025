@@ -108,6 +108,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.indihometv.com/assets/images/channel/logo_net_small1.png",NET TV
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.indihometv.com/assets/images/channel/logo_net_small1.png",NET
+http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.indihometv.com/assets/images/channel/logo_rtv_small1.png",RTV
 http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.ibb.co.com/grG96WL/MOJI.jpg",MOJI
@@ -136,23 +138,21 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.ibb.co.com/hsPmSbf/BIOSKOP-INDO.jpg",BIOSKOP INDONESIA
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264801
-#EXTINF:-1 group-title="NASIONAL",TRANSTV
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.indihometv.com/assets/images/channel/logo_metrotv_small1.png",TRANSTV
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
-#EXTINF:-1 group-title="NASIONAL",TRANS7
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.indihometv.com/assets/images/channel/logo_metrotv_small1.png",TRANS7
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
-#EXTINF:-1 group-title="NASIONAL",GTV
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.indihometv.com/assets/images/channel/logo_metrotv_small1.png",GTV
 https://allcutv.rctiplus.id/gtv2023.m3u8
-#EXTINF:-1 group-title="NASIONAL",MNCTV
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.indihometv.com/assets/images/channel/logo_metrotv_small1.png",MNCTV
 https://allcutv.rctiplus.id/mnctv2023.m3u8
-#EXTINF:-1 group-title="NASIONAL",RCTI
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.indihometv.com/assets/images/channel/logo_metrotv_small1.png",RCTI
 https://allcutv.rctiplus.id/rcti2023.m3u8
-#EXTINF:-1 group-title="NASIONAL",INEWS
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.indihometv.com/assets/images/channel/logo_metrotv_small1.png",INEWS
 https://allcutv.rctiplus.id/inews2023.m3u8
-#EXTINF:-1 group-title="NASIONAL",ANTV_HD
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.indihometv.com/assets/images/channel/logo_metrotv_small1.png",ANTV_HD
 https://raw.githubusercontent.com/warningfm/streams/master/live/m3u8/id/b630a001384603f.m3u8
-#EXTINF:-1 group-title="NASIONAL",NET
-http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
-#EXTINF:-1 group-title="NASIONAL",Dunia Sinema
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.indihometv.com/assets/images/channel/logo_metrotv_small1.png",Dunia Sinema
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 
