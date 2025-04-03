@@ -57,7 +57,18 @@ https://bit.ly/3DVMI2j
 https://cdn2.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 #EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/pwRGF4S/Showtime.jpg",STAR TV
 https://cdn2.skygo.mn/live/disk1/Star/HLS-FTA/Star.m3u8
-
+#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/pwRGF4S/Showtime.jpg",MOVIES_DOUYU_03
+http://huanqiuzhibo.cn/manifest/douyu.php?id=3637778
+#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/pwRGF4S/Showtime.jpg",MOVIES_DOUYU_03
+http://huanqiuzhibo.cn/manifest/douyu.php?id=3637778
+#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/pwRGF4S/Showtime.jpg",MOVIES_DOUYU_16
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7253343
+#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/pwRGF4S/Showtime.jpg",MOVIES_DOUYU_18
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7356023
+#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/pwRGF4S/Showtime.jpg",MOVIES_DOUYU_29
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7882691
+#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/pwRGF4S/Showtime.jpg",MOVIES_DOUYU_33
+http://epg.112114.xyz/douyu/434971
 
 
 
