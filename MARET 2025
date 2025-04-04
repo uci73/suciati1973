@@ -319,7 +319,12 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=7356023
 http://huanqiuzhibo.cn/manifest/douyu.php?id=20415
 #EXTINF:-1 group-title="ASIA", MOVIES MIX 38 (P)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=7882691
-
+#EXTINF:-1 group-title="ASIA", FWMOV
+https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8
+#EXTINF:-1 group-title="ASIA", FWSOV
+https://freelive.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/chunks.m3u8
+#EXTINF:-1 group-title="ASIA", CH8
+http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 
 
 
@@ -331,8 +336,6 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=7882691
 
 #EXTINF:-1 group-title="DEWASA", AMAZING TV
 http://125.227.210.55:8156/VideoInput/play.ts
-#EXTINF:-1 group-title="DEWASA",ROMANCE
-http://ott.server-iptv.live/1660/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 group-title="DEWASA",Pink Movies
 http://109.206.96.129:1935/live/pinkmovies.stream/playlist.m3u8
 #EXTINF:-1 group-title="DEWASA",JAPAN HD
@@ -371,6 +374,12 @@ https://newidco-newkid-1-br.lg.wurl.tv/3000.m3u8
 https://newidco-newkid-1-mx.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC",New Kpop 3
 https://newidco-newkid-1-ca.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",HI MUSIC
+https://ssh101.bozztv.com/ssh101/HiMusicTv/chunks.m3u8
+
+
+
+
 
 
 
@@ -437,3 +446,38 @@ http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/121954
 http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/121955
 #EXTINF:-1 group-title="COSMOTE SPORT",COSMOTE SPORT 9 [Live During Events Only]
 http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/121956
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="ROMANCE",ROMANCE
+http://ott.server-iptv.live/1660/video.m3u8?token=M4f082ab4c
+#EXTINF:-1 group-title="ROMANCE",SPARK AMOR
+https://candlelightmedia-sparklightlove-3-br.plex.wurl.tv/4300.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="TURKY",FILM AKSION
+http://195.181.169.152:8080/Film_Aksion_AL/video.m3u8?token=test
+#EXTINF:-1 group-title="TURKY",FILM AUTOR
+http://195.181.169.152:8080/Film_Autor_AL/video.m3u8?token=test
+#EXTINF:-1 group-title="TURKY",FILM THRILLER
+http://195.181.169.152:8080/Film_Thriller_AL/video.m3u8?token=test
