@@ -559,6 +559,16 @@ http://aktv-stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
 #EXTINF:-1 group-title="GOLD ASIA",PEARL DRAMA
 http://aktv-stream.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
+#EXTINF:-1 group-title="GOLD ASIA",CINEMA WORLD
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch31/AKTV.m3u8
+#EXTINF:-1 group-title="GOLD ASIA",ASIAN ACTION
+http://aktv-stream.m16tv.cfd/stream/tuntun/asianaction/AKTV.m3u8
+#EXTINF:-1 group-title="GOLD ASIA",ASTRO QJ
+http://aktv-stream.m16tv.cfd/stream/tuntun/astroqj/AKTV.m3u8
+
+
+
+
 
 
 
@@ -598,3 +608,44 @@ http://aflaxtv.xyz:8080/Wat068/924a937d/157557
 http://aflaxtv.xyz:8080/Wat068/924a937d/247431
 #EXTINF:-1 group-title="ASTRO",Astro Vaanavil
 http://aflaxtv.xyz:8080/Wat068/924a937d/201163
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="SKY",Sky Action
+http://supersonictv.live:8080/live/144264/661943/77462.ts
+#EXTINF:-1 group-title="SKY",Sky Comedy
+http://supersonictv.live:8080/live/144264/661943/77463.ts
+#EXTINF:-1 group-title="SKY",Sky Cinema Hits
+http://supersonictv.live:8080/live/144264/661943/77464.ts
+#EXTINF:-1 group-title="SKY",Sky Drama
+http://supersonictv.live:8080/live/144264/661943/77465.ts
+#EXTINF:-1 group-title="SKY",Sky Family
+http://supersonictv.live:8080/live/144264/661943/77466.ts
+#EXTINF:-1 group-title="SKY",Sky Greats
+http://supersonictv.live:8080/live/144264/661943/77467.ts
+#EXTINF:-1 group-title="SKY",Sky Premiere
+http://supersonictv.live:8080/live/144264/661943/77468.ts
+#EXTINF:-1 group-title="SKY",Sky Cinema Sci-Fi
+http://supersonictv.live:8080/live/144264/661943/77469.ts
+#EXTINF:-1 group-title="SKY",Sky Cinema Select
+http://supersonictv.live:8080/live/144264/661943/77470.ts
+
+
+
+
+
