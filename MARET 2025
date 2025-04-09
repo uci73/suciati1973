@@ -531,7 +531,70 @@ http://aktv-stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
 https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 #EXTINF:-1 group-title="GOLD ASIA",M8
 https://cdn6.163189.xyz/live/ch8/stream.m3u8
+#EXTINF:-1 group-title="GOLD ASIA",LTV
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
+#EXTINF:-1 group-title="GOLD ASIA",LTV2
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
+#EXTINF:-1 group-title="GOLD ASIA",Astro IQIYI
+http://aflaxtv.xyz:8080/Wat068/924a937d/306494
+#EXTINF:-1 group-title="GOLD ASIA",Celestial Movies
+http://aflaxtv.xyz:8080/Wat068/924a937d/174687
+#EXTINF:-1 group-title="GOLD ASIA",HBO
+http://aflaxtv.xyz:8080/Wat068/924a937d/157518
+#EXTINF:-1 group-title="GOLD ASIA",TVN Movies
+http://aflaxtv.xyz:8080/Wat068/924a937d/297499
+#EXTINF:-1 group-title="GOLD ASIA",KBS 2TV
+http://mytv.dothome.co.kr/ch/public/3.php
+#EXTINF:-1 group-title="GOLD ASIA",D LIFE
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="GOLD ASIA",Movie°Plus
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="GOLD ASIA",Nippon°Eiga°Senmon Channel
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="GOLD ASIA",MEIYA MOVIE
+http://aktv-stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
+#EXTINF:-1 group-title="GOLD ASIA",TVB DRAMA
+http://aktv-stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
+#EXTINF:-1 group-title="GOLD ASIA",TVB3
+http://aktv-stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
+#EXTINF:-1 group-title="GOLD ASIA",PEARL DRAMA
+http://aktv-stream.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
 
 
 
 
+
+#EXTINF:-1 group-title="ASTRO",MY: Animax
+http://aflaxtv.xyz:8080/Wat068/924a937d/157486
+#EXTINF:-1 group-title="ASTRO",Astro AEC
+http://aflaxtv.xyz:8080/Wat068/924a937d/247409
+#EXTINF:-1 group-title="ASTRO",Astro Arena
+http://aflaxtv.xyz:8080/Wat068/924a937d/157485
+#EXTINF:-1 group-title="ASTRO",Astro Aura
+http://aflaxtv.xyz:8080/Wat068/924a937d/171986
+#EXTINF:-1 group-title="ASTRO",Astro Awani
+http://aflaxtv.xyz:8080/Wat068/924a937d/157478
+#EXTINF:-1 group-title="ASTRO",Astro Citra
+http://aflaxtv.xyz:8080/Wat068/924a937d/157569
+#EXTINF:-1 group-title="ASTRO",Astro Cricket
+http://aflaxtv.xyz:8080/Wat068/924a937d/157565
+#EXTINF:-1 group-title="ASTRO",Astro Football
+http://aflaxtv.xyz:8080/Wat068/924a937d/157558
+#EXTINF:-1 group-title="ASTRO",Astro Grandstand
+http://aflaxtv.xyz:8080/Wat068/924a937d/306492
+#EXTINF:-1 group-title="ASTRO",Astro Oasis
+http://aflaxtv.xyz:8080/Wat068/924a937d/157489
+#EXTINF:-1 group-title="ASTRO",Astro Premier League
+http://aflaxtv.xyz:8080/Wat068/924a937d/146068
+#EXTINF:-1 group-title="ASTRO",Astro Premier League 2
+http://aflaxtv.xyz:8080/Wat068/924a937d/306491
+#EXTINF:-1 group-title="ASTRO",Astro Prima
+http://aflaxtv.xyz:8080/Wat068/924a937d/157467
+#EXTINF:-1 group-title="ASTRO",Astro SuperSport 2
+http://aflaxtv.xyz:8080/Wat068/924a937d/157556
+#EXTINF:-1 group-title="ASTRO",Astro SuperSport 3
+http://aflaxtv.xyz:8080/Wat068/924a937d/157557
+#EXTINF:-1 group-title="ASTRO",Astro Tutor TV
+http://aflaxtv.xyz:8080/Wat068/924a937d/247431
+#EXTINF:-1 group-title="ASTRO",Astro Vaanavil
+http://aflaxtv.xyz:8080/Wat068/924a937d/201163
