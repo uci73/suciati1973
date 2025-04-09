@@ -491,3 +491,47 @@ http://195.181.169.152:8080/Film_Aksion_AL/video.m3u8?token=test
 http://195.181.169.152:8080/Film_Autor_AL/video.m3u8?token=test
 #EXTINF:-1 group-title="TURKY",FILM THRILLER
 http://195.181.169.152:8080/Film_Thriller_AL/video.m3u8?token=test
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="GOLD ASIA",ROCK Entertainment HD
+http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Entertainment_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+#EXTINF:-1 group-title="GOLD ASIA",My Cinema Asia
+http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+#EXTINF:-1 group-title="GOLD ASIA",My Family Channel
+http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Family_Channel|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+#EXTINF:-1 group-title="GOLD ASIA",CelestialClassicMovies(rr)
+http://rr3.dens.tv/s/s31/index.m3u8
+#EXTINF:-1 group-title="GOLD ASIA",DFC FOOD CHANNEL
+https://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
+#EXTINF:-1 group-title="GOLD ASIA",K+
+http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
+#EXTINF:-1 group-title="GOLD ASIA",MY CINEMA
+https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
+#EXTINF:-1 group-title="GOLD ASIA",MY CINEMA ASIA
+https://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
+#EXTINF:-1 group-title="GOLD ASIA",MY FAMILY CHANNEL
+https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
+#EXTINF:-1 group-title="GOLD ASIA",PopC
+http://aktv-stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
+#EXTINF:-1 group-title="GOLD ASIA",ROCK Action
+http://aktv-stream.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1 group-title="GOLD ASIA",TVB Plus
+http://aktv-stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1 group-title="GOLD ASIA",tvN
+http://aktv-stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
+#EXTINF:-1 group-title="GOLD ASIA",GOOD TV CARTOON
+https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
+#EXTINF:-1 group-title="GOLD ASIA",M8
+https://cdn6.163189.xyz/live/ch8/stream.m3u8
+
+
+
+
