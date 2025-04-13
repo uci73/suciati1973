@@ -400,23 +400,28 @@ http://cord-cutter.net:8080/j3McKd/673709/160011
 
 
 
-#EXTINF:-1 group-title="MUSIK", Play TV
+#EXTINF:-1 group-title="MELODI", Play TV
 https://isaocorp.cloudecast.com/playtv/index.m3u8
-#EXTINF:-1 group-title="MUSIK", New Kpop 1
+#EXTINF:-1 group-title="MELODI", New Kpop 1
 https://newidco-newkid-1-br.lg.wurl.tv/3000.m3u8
-#EXTINF:-1 group-title="MUSIK", New Kpop 2
+#EXTINF:-1 group-title="MELODI",  New Kpop 2
 https://newidco-newkid-1-mx.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="MUSIK", New Kpop 3
+#EXTINF:-1 group-title="MELODI", New Kpop 3
 https://newidco-newkid-1-ca.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="MUSIK", HI MUSIC
+#EXTINF:-1 group-title="MELODI", HI MUSIC
 https://ssh101.bozztv.com/ssh101/HiMusicTv/chunks.m3u8
-#EXTINF:-1 group-title="MUSIK", Afro beats
+#EXTINF:-1 group-title="MELODI", Afro beats
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1 group-title="MUSIK", ACTIVA TV
+#EXTINF:-1 group-title="MELODI", ACTIVA TV
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
-#EXTINF:-1 group-title="MUSIK", MIC TV
+#EXTINF:-1 group-title="MELODI", MIC TV
 https://v2.siar.us/mic/live/playlist.m3u8
-
+#EXTINF:-1 group-title="MELODI", POP MUSIK
+https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
+#EXTINF:-1 group-title="MELODI", MALEO
+https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
+#EXTINF:-1 group-title="MELODI", AFROBEATS HD
+https://stream.ecable.tv/afrobeats/index.m3u8
 
 
 
