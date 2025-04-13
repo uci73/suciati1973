@@ -93,28 +93,50 @@ http://fl2.moveonjoy.com/TNT/index.m3u8
 
 
 
-#EXTINF:-1 group-title="NASIONAL II",GTV
+#EXTINF:-1 group-title="LOKAL", GTV
 https://allcutv.rctiplus.id/gtv2023.m3u8
-#EXTINF:-1 group-title="NASIONAL II",MNCTV
+#EXTINF:-1 group-title="LOKAL", MNCTV
 https://allcutv.rctiplus.id/mnctv2023.m3u8
-#EXTINF:-1 group-title="NASIONAL II",RCTI
+#EXTINF:-1 group-title="LOKAL", RCTI
 https://allcutv.rctiplus.id/rcti2023.m3u8
-#EXTINF:-1 group-title="NASIONAL II",INEWS
+#EXTINF:-1 group-title="LOKAL", INEWS
 https://allcutv.rctiplus.id/inews2023.m3u8
-#EXTINF:-1 group-title="NASIONAL II",ANTV_HD
+#EXTINF:-1 group-title="LOKAL", ANTV_HD
 https://raw.githubusercontent.com/warningfm/streams/master/live/m3u8/id/b630a001384603f.m3u8
-#EXTINF:-1 group-title="NASIONAL II",Dunia Sinema
+#EXTINF:-1 group-title="LOKAL", Dunia Sinema
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-#EXTINF:-1 group-title="NASIONAL II",RCTI
+#EXTINF:-1 group-title="LOKAL", RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
-#EXTINF:-1 group-title="NASIONAL II",AKTV
+#EXTINF:-1 group-title="LOKAL", AKTV
 https://e.siar.us/live/aktv.m3u8
-#EXTINF:-1 group-title="NASIONAL II",Ficom TV
+#EXTINF:-1 group-title="LOKAL", Ficom TV
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
-#EXTINF:-1 group-title="NASIONAL II",Jawapos TV
+#EXTINF:-1 group-title="LOKAL", Jawapos TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8Jawapos TV
-
-
+#EXTINF:-1 group-title="LOKAL", ALLPLAY ENT (INDIHOME)
+https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
+#EXTINF:-1 group-title="LOKAL", GTV
+https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+#EXTINF:-1 group-title="LOKAL", RCTI
+https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+#EXTINF:-1 group-title="LOKAL", MNC TV
+https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+#EXTINF:-1 group-title="LOKAL", SCTV
+http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+#EXTINF:-1 group-title="LOKAL", INDOSIAR
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#EXTINF:-1 group-title="LOKAL", MOJI TV
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#EXTINF:-1 group-title="LOKAL", ANTV
+https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
+#EXTINF:-1 group-title="LOKAL", Magna Channel
+http://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Magna_Channel
+#EXTINF:-1 group-title="LOKAL", INEWS HD
+https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+#EXTINF:-1 group-title="LOKAL", KOMPAS TV
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+#EXTINF:-1 group-title="LOKAL", Garuda TV
+https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
 
 
@@ -378,21 +400,22 @@ http://cord-cutter.net:8080/j3McKd/673709/160011
 
 
 
-#EXTINF:-1 group-title="MUSIC",Play TV
+#EXTINF:-1 group-title="MUSIK", Play TV
 https://isaocorp.cloudecast.com/playtv/index.m3u8
-#EXTINF:-1 group-title="MUSIC",New Kpop 1
+#EXTINF:-1 group-title="MUSIK", New Kpop 1
 https://newidco-newkid-1-br.lg.wurl.tv/3000.m3u8
-#EXTINF:-1 group-title="MUSIC",New Kpop 2
+#EXTINF:-1 group-title="MUSIK", New Kpop 2
 https://newidco-newkid-1-mx.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",New Kpop 3
+#EXTINF:-1 group-title="MUSIK", New Kpop 3
 https://newidco-newkid-1-ca.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",HI MUSIC
+#EXTINF:-1 group-title="MUSIK", HI MUSIC
 https://ssh101.bozztv.com/ssh101/HiMusicTv/chunks.m3u8
-#EXTINF:-1 group-title="MUSIC",Afro beats
+#EXTINF:-1 group-title="MUSIK", Afro beats
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1 group-title="MUSIC", ACTIVA TV
+#EXTINF:-1 group-title="MUSIK", ACTIVA TV
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
-
+#EXTINF:-1 group-title="MUSIK", MIC TV
+https://v2.siar.us/mic/live/playlist.m3u8
 
 
 
